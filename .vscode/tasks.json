@@ -56,6 +56,16 @@
       "options": {
         "cwd": "${workspaceFolder}"
       }
+    },
+    {
+      "type": "build-mta",
+      "label": "Build MTA on MKDemoApp3/mta.yaml",
+      "taskType": "Build",
+      "buildType": "Build MTA Project",
+      "mtaFilePath": "/home/user/projects/MKDemoApp3/mta.yaml",
+      "mtarTargetPath": "",
+      "mtarName": "",
+      "extPath": ""
     }
   ]
 }
